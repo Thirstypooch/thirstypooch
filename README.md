@@ -3,7 +3,6 @@
     <td width="50%" valign="top">
       <div align="center">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHl5czJkazZrYW9tZzdzM29tbjI4dWtoNDNvNGYxNWsyeTZ2NTlreCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" height="200" />
-        <br/><br/>
       </div>
     </td>
   </table>
