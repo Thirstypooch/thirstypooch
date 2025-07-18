@@ -35,7 +35,7 @@
     <td width="50%" valign="middle">
       <div align="center">
         <a href="https://open.spotify.com/user/31jl7zeiftwif33gxv7grpp2zayi">
-          <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jl7zeiftwif33gxv7grpp2zayi&count=7" alt="Spotify recently played" />
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jl7zeiftwif33gxv7grpp2zayi&count=7" alt="Spotify recently played" width="100%" />
         </a>
       </div>
     </td>
